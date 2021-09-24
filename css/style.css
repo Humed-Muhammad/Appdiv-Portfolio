@@ -1,4 +1,7 @@
+*{
+    font-family: "Open Sans,Raleway" !important;
 
+}
 body {
     color: #000000;
     direction: ltr;
@@ -667,7 +670,7 @@ close:hover, .close:focus {
 }
 
 .font-semibold {
-    font-family: "Titillium Web",sans-serif;
+    font-family: "Titillium Web";
     font-weight: 600;
 }
 
