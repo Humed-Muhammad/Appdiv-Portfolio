@@ -125,7 +125,19 @@
                         </div>
                     </div>
                 </div>
+                <div class="col-lg-4 col-md-4 clearfix col-sm-6 service-box">
+                    <div class="thumbnail">
+                        <img width="90%" src="images/securty.png" />
+                        <div class="caption">
 
+                            <h3>Security, Access Control and Time Attendance <span class="font-semibold no-margin">Implementation</span> </h3>
+                            <p class="text-justify">
+                                We Provide a very powerful security implementation for our customers also a time attendance system for helping employers and employees manage their work on a daily base. 
+                            </p>
+
+                        </div>
+                    </div>
+                </div>
             </div>
 
         </section>
