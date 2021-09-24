@@ -1,0 +1,28 @@
+.ul-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    
+}
+.ul-list{
+   width: 180px;
+   height: 150px;
+   background-color: #ffffff;
+   display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 2px;
+}
+.image-parent{
+    width: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    margin: 10px;
+}
+.image-logo{
+    object-fit: cover;
+    width: 100%;
+}
