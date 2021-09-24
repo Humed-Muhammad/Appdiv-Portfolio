@@ -18,7 +18,6 @@
         }
 
         .paragraph {
-            font-family: sans-serif;
             text-align: justify;
             line-height: 2.5rem;
         }
