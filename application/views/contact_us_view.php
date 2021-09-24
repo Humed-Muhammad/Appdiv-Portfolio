@@ -1,3 +1,7 @@
+<head>
+<link rel="stylesheet" href="font_awesome/css/font-awesome.min.css">
+
+</head>
 <div class="">
     <div class="banner clearfix">
         <div id="googleMap">
@@ -14,9 +18,9 @@
 
             <div class="footer-content">
                 <h3>Main Office</h3>
-                <p class="large">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel nam magnam natus tempora cumque, aliquam deleniti voluptatibus voluptas. Repellat vel, et itaque commodi iste ab, laudantium voluptas deserunt nobis.</p>
+                <p class="large">Our main office is located in Addis Ababa Bole, Around Edna Mall</p>
                 <ul class="list-icons">
-                    <li><i class="fa fa-map-marker pr-10"></i> Awelia College Winget Area</li>
+                    <li><i class="fa fa-map-marker pr-10"></i> Gulf Azizi Building</li>
                     <li>
                         <a href="tel:+251912637046">
                             <i class="fa fa-phone pr-10"></i> +251 912 637 046

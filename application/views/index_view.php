@@ -21,12 +21,7 @@
         ga('create', 'UA-62546040-1', 'auto');
         ga('send', 'pageview');
     </script>
-    <style>
-        * {
-            font-family: "Open Sans,Raleway" !important;
-
-        }
-    </style>
+    
 </head>
 
 <body>

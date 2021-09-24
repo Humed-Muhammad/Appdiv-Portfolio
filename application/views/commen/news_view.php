@@ -25,5 +25,16 @@
     </div>
     </div>
 
+    <div class="review">
+    <div class="row-fluid clearfix">
+        <div class="new_content">
+
+            <p>
+                We Launched School system.
+            </p>
+        </div>
+
+    </div>
+    </div>
 
 
