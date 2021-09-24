@@ -13,7 +13,7 @@
 	body {
 		background-color: #fff;
 		margin: 40px;
-		font: 13px/20px normal Helvetica, Arial, sans-serif;
+		font: 13px/20px normal Helvetica, Arial;
 		color: #4F5155;
 	}
 
