@@ -24,7 +24,7 @@ class contact_us extends CI_Controller {
     {
         $data['title']='Contact Us';
         $data['page'] = 'contact_us_view';
-   
+        $data['no_heading']=TRUE;
         $post=  $this->input->post();
         print_r($post);
         $data["banner"] = "contact us.jpg";
