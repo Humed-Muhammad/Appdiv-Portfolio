@@ -15,12 +15,12 @@
         </section>
 
         <section class="col-lg-3 col-md-4 col-lg-offset-1 clearfix">
-            <!-- <h3>News</h3>
+            <h3>News</h3>
             <div class="row-fluid">
                 <div class="review-filtering">
                     <?php $this->load->view('commen/news_view'); ?>
                 </div>
-            </div> -->
+            </div>
         </section>
 
         <section class="col-lg-3 col-md-4 col-lg-offset-1 clearfix">
