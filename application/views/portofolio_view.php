@@ -63,9 +63,8 @@
                                                $i++;
                                             $data="projects/index/$striped/$title"; echo site_url($data) ?>">
                                             <i class="glyphicon glyphicon-zoom-in"></i>
-                                            <span>Web Design</span>
+                                            <span style="font-size: medium"><?=$value ?></span>
                                         </a>
-                                        <!-- <a href="#"><?=$i ?></a> -->
                                     </div>
                                    
                             </div>
