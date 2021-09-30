@@ -35,19 +35,3 @@
 
     </div>
     </div>
-
-
-
-    <div class="review">
-    <div class="row-fluid clearfix">
-        <div class="new_content">
-
-            <p>
-               
-            </p>
-        </div>
-
-    </div>
-    </div>
-
-
